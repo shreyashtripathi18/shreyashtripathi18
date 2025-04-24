@@ -31,7 +31,7 @@ Custom Python tools for network reconnaissance:
 
 ## 🛡️ Cybersecurity & Internship Work
 
-### 🔍 DezHacktify Internship (Cybersecurity Intern)
+### 🔍 Hacktify Internship (Cybersecurity Intern)
 Worked hands-on with real-world vulnerabilities including:
 - HTML Injection
 - SQL Injection
