@@ -70,4 +70,4 @@ Developed during my internship at Career Corps, this web project simulates a com
 
 - 🔗 [Portfolio Website](https://shreyash-portfolio.vercel.app/)
 - 📧 Email: shreyasht2002@gmail.com
-- 🐦 Twitter: [@shreyashtrip18](https://twitter.com/shreyashtrip18)
+- 🐦 Twitter: [@shreyashtrip19](https://twitter.com/shreyashtrip19)
